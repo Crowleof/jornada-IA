@@ -1,5 +1,5 @@
 Anotações de Estudo
 
-## AAAA-MM-DD
+## DD-MM-AAAA
 - Fiz: 
 - Não entendi: 
